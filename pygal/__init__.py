@@ -33,6 +33,7 @@ import warnings
 from pygal.graph.bar import Bar
 from pygal.graph.box import Box
 from pygal.graph.dot import Dot
+from pygal.graph.boxline import BoxLine
 from pygal.graph.funnel import Funnel
 from pygal.graph.gauge import Gauge
 from pygal.graph.solidgauge import SolidGauge
